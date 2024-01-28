@@ -25,7 +25,56 @@ Nro,TipoDeInformacion,Responsable,Proceso,Estado,Usuario,Estandar,Fecha
 24.00,consulta,Miguel,Retroalimentar a involucrados,En plazos,Usuario 12,En las proximas 72 horas,20/02/2023
 25.00,reclamo,Walter,Contextualizar reclamo,En plazos,Usuario 15,,21/02/2023
 26.00,reclamo,Victor,Disculparse por la incomodidad causada,En plazos,Usuario 15,,22/02/2023
-27.00,reclamo
-28.00,reclamo
-29.00,reclamo
-30.00,reclamo
+27.00,reclamo,Saul,Comunicar que estamos trabajando para mejorar nuestros procesos,En plazos,Usuario 15,,23/02/2023
+28.00,reclamo,Stephany,Según canal de reclamos,En plazos,Usuario 15,,24/02/2023
+29.00,reclamo,Maria,Realizar reporte de reclamos,En plazos,Usuario 15,,25/02/2023
+30.00,reclamo,Patricia,Retroalimentar a involucrados,En plazos,Usuario 15,En las proximas 72 horas,26/02/2023
+31.00,sugerencias,Natalia,Comunicar que se tomaran en cuenta la sugerencia,En plazos,Usuario 17,,27/02/2023
+32.00,sugerencias,Manuel,Agradecer la comunicacion,En plazos,Usuario 17,,28/02/2023
+33.00,sugerencias,Cecilia,Según canal de sugerencias,En plazos,Usuario 17,,1/03/2023
+34.00,sugerencias,Manuel,Realizar reporte de sugerencia,Retraso,Usuario 17,,2/03/2023
+35.00,sugerencias,Selene,Retroalimentar a involucrados,En plazos,Usuario 17,En las proximas 72 horas,3/03/2023
+36.00,sugerencias,Sandy,Comunicar que se tomaran en cuenta la sugerencia,Retraso,Usuario 24,,4/03/2023
+37.00,sugerencias,Diana,Agradecer la comunicacion,En plazos,Usuario 24,,5/03/2023
+38.00,sugerencias,Catherine,Según canal de entrada ,Retraso,Usuario 24
+39.00,sugerencias,Jose,Realizar reporte de sugerencia,,Usuario 24
+40.00,sugerencias,Miguel,Retroalimentar a involucrados,,Usuario 24
+41.00,consulta,Walter,Contextualizar consulta,En plazos,Usuario 20,,9/03/2023
+42.00,consulta,Victor,¿Se cuenta con la información?,En plazos,Usuario 20,,10/03/2023
+43.00,consulta,Saul,Comunicar la información,Retraso,Usuario 20,,11/03/2023
+44.00,consulta,Stephany,Según canal de consultas,Retraso,Usuario 20,,12/03/2023
+45.00,consulta,Maria,Realizar reporte de consultas,,Usuario 20
+46.00,consulta,Patricia,Retroalimentar a involucrados,,Usuario 20
+47.00,consulta,Natalia,Contextualizar consulta,En plazos,Usuario 26,,15/03/2023
+48.00,consulta,Manuel,¿Se cuenta con la información?,En plazos,Usuario 26,,16/03/2023
+49.00,consulta,Cecilia,Despedirce y comunicar que se brindará respuestas a la brevedad posible,En plazos,Usuario 26,,17/03/2023
+50.00,consulta,Manuel,Consultar información al encargado pertinente,Retraso,Usuario 26,,18/03/2023
+51.00,consulta,Selene,Contactar y dar información,En plazos,Usuario 26,,19/03/2023
+52.00,consulta,Sandy,Según canal de consultas,Retraso,Usuario 26,,20/03/2023
+53.00,consulta,Diana,Realizar reporte de consultas,,Usuario 26
+54.00,consulta,Catherine,Retroalimentar a involucrados,,Usuario 26
+55.00,reclamo,Jose,Contextualizar consulta,En plazos,Usuario 32,,23/03/2023
+56.00,reclamo,Miguel,Disculparse por la incomodidad causada,Retraso,Usuario 32,,24/03/2023
+57.00,reclamo,Walter,Comunicar que estamos trabajando para mejorar nuestros procesos,En plazos,Usuario 32,,25/03/2023
+58.00,reclamo,Victor,Según canal de reclamos,Retraso,Usuario 32,,26/03/2023
+
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+39.00,consulta,,Contextualizar consulta,En plazos,Usuario 20
+40.00,consulta,,¿Se cuenta con la información?,En plazos,Usuario 20
+41.00,consulta,,Comunicar la información,Retraso,Usuario 20
+42.00,consulta,,Según canal de entrada ,Retraso,Usuario 20
+43.00,consulta,,Contextualizar consulta,En plazos,Usuario 26
+44.00,consulta,,¿Se cuenta con la información?,En plazos,Usuario 26
+45.00,consulta,,Despedirce y comunicar que se brindará respuestas a la brevedad posible,En plazos,Usuario 26
+46.00,consulta,,Consultar información al encargado pertinente,Retraso,Usuario 26
+47.00,consulta,,Contactar y dar información,En plazos,Usuario 26
+49.00,consulta,,Según canal de entrada ,Retraso,Usuario 26
+,reclamo,,Contextualizar reclamo,En plazos
+,reclamo,,Disculparse por la incomodidad causada,Retraso
+,reclamo,,Comunicar que estamos trabajando para mejorar nuestros procesos,En plazos
+,reclamo,,Según canal de reclamos
+,,,Realizar reporte de reclamos
+,,,Retroalimentar a involucrados
