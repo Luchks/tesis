@@ -1,0 +1,31 @@
+Nro,TipoDeInformacion,Responsable,Proceso,Estado,Usuario,Estandar,Fecha
+1.00,sugerencias,Cecilia,Comunicar que se tomaran en cuenta la sugerencia,En plazos,Usuario 01,,28/01/2023
+2.00,sugerencias,Manuel,Agradecer la comunicacion,En plazos,Usuario 01,,29/01/2023
+3.00,sugerencias,Selene,Según canal de sugerencias,En plazos,Usuario 01,,30/01/2023
+4.00,sugerencias,Sandy,Realizar reporte de sugerencia,Retraso,Usuario 01,,31/01/2023
+5.00,sugerencias,Diana,Retroalimentar a involucrados,En plazos,Usuario 01,En las proximas 72 horas,1/02/2023
+6.00,sugerencias,Catherine,Comunicar que se toma en cuenta la sugerencia,En plazos,Usuario 11,,2/02/2023
+7.00,sugerencias,Jose,Agradecer la comunicacion,Retraso,Usuario 11,,3/02/2023
+8.00,sugerencias,Miguel,Según canal de sugerencias,En plazos,Usuario 11,,4/02/2023
+9.00,sugerencias,Walter,Realizar reporte de sugerencia,Retraso,Usuario 11,,5/02/2023
+10.00,sugerencias,Victor,Retroalimentar a involucrados,En plazos,Usuario 11,Durante la semana,6/02/2023
+11.00,consulta,Saul,Contextualizar consulta,En plazos,Usuario 7,,7/02/2023
+12.00,consulta,Stephany,¿Se cuenta con la información?,En plazos,Usuario 7,,8/02/2023
+13.00,consulta,Maria,Comunicar la información,Retraso,Usuario 7,,9/02/2023
+14.00,consulta,Patricia,Según canal de consultas,Retraso,Usuario 7,,10/02/2023
+15.00,consulta,Natalia,Realizar reporte de consultas,,Usuario 7
+16.00,consulta,Manuel,Retroalimentar a involucrados,,Usuario 7
+17.00,consulta,Cecilia,Contextualizar consulta,En plazos,Usuario 12,,13/02/2023
+18.00,consulta,Manuel,¿Se cuenta con la información?,En plazos,Usuario 12,,14/02/2023
+19.00,consulta,Selene,Despedirce y comunicar que se brindará respuestas a la brevedad posible,En plazos,Usuario 12,,15/02/2023
+20.00,consulta,Sandy,Consultar información al encargado pertinente,En plazos,Usuario 12,,16/02/2023
+21.00,consulta,Diana,Contactar y dar información,En plazos,Usuario 12,,17/02/2023
+22.00,consulta,Catherine,Según canal de consultas,En plazos,Usuario 12,,18/02/2023
+23.00,consulta,Jose,Realizar reporte de consultas,En plazos,Usuario 12,,19/02/2023
+24.00,consulta,Miguel,Retroalimentar a involucrados,En plazos,Usuario 12,En las proximas 72 horas,20/02/2023
+25.00,reclamo,Walter,Contextualizar reclamo,En plazos,Usuario 15,,21/02/2023
+26.00,reclamo,Victor,Disculparse por la incomodidad causada,En plazos,Usuario 15,,22/02/2023
+27.00,reclamo
+28.00,reclamo
+29.00,reclamo
+30.00,reclamo
