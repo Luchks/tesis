@@ -62,19 +62,62 @@ Nro,TipoDeInformacion,Responsable,Proceso,Estado,Usuario,Estandar,Fecha
 
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-39.00,consulta,,Contextualizar consulta,En plazos,Usuario 20
-40.00,consulta,,¿Se cuenta con la información?,En plazos,Usuario 20
-41.00,consulta,,Comunicar la información,Retraso,Usuario 20
-42.00,consulta,,Según canal de entrada ,Retraso,Usuario 20
-43.00,consulta,,Contextualizar consulta,En plazos,Usuario 26
-44.00,consulta,,¿Se cuenta con la información?,En plazos,Usuario 26
-45.00,consulta,,Despedirce y comunicar que se brindará respuestas a la brevedad posible,En plazos,Usuario 26
-46.00,consulta,,Consultar información al encargado pertinente,Retraso,Usuario 26
-47.00,consulta,,Contactar y dar información,En plazos,Usuario 26
-49.00,consulta,,Según canal de entrada ,Retraso,Usuario 26
-,reclamo,,Contextualizar reclamo,En plazos
-,reclamo,,Disculparse por la incomodidad causada,Retraso
-,reclamo,,Comunicar que estamos trabajando para mejorar nuestros procesos,En plazos
-,reclamo,,Según canal de reclamos
-,,,Realizar reporte de reclamos
+Estado,consulta,,Contextualizar consulta,En plazos,Usuario 20
+En plazos,consulta,,¿Se cuenta con la información?,En plazos,Usuario 20
+En plazos,consulta,,Comunicar la información,Retraso,Usuario 20
+En plazos,consulta,,Según canal de entrada ,Retraso,Usuario 20
+Retraso,consulta,,Contextualizar consulta,En plazos,Usuario 26
+En plazos,consulta,,¿Se cuenta con la información?,En plazos,Usuario 26
+En plazos,consulta,,Despedirce y comunicar que se brindará respuestas a la brevedad posible,En plazos,Usuario 26
+Retraso,consulta,,Consultar información al encargado pertinente,Retraso,Usuario 26
+En plazos,consulta,,Contactar y dar información,En plazos,Usuario 26
+Retraso,consulta,,Según canal de entrada ,Retraso,Usuario 26
+En plazos,reclamo,,Contextualizar reclamo,En plazos
+En plazos,reclamo,,Disculparse por la incomodidad causada,Retraso
+En plazos,reclamo,,Comunicar que estamos trabajando para mejorar nuestros procesos,En plazos
+Retraso,reclamo,,Según canal de reclamos
+Retraso,,,Realizar reporte de reclamos
 ,,,Retroalimentar a involucrados
+
+En plazos
+En plazos
+En plazos
+En plazos
+En plazos
+En plazos
+En plazos
+En plazos
+En plazos
+En plazos
+En plazos
+En plazos
+En plazos
+En plazos
+En plazos
+En plazos
+En plazos
+Retraso
+En plazos
+Retraso
+En plazos
+Retraso
+
+
+En plazos
+En plazos
+Retraso
+Retraso
+
+
+En plazos
+En plazos
+En plazos
+Retraso
+En plazos
+Retraso
+
+
+En plazos
+Retraso
+En plazos
+Retraso
